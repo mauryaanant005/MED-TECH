@@ -87,9 +87,9 @@ Notifications: Firebase Cloud Messaging
 
 ## 📱 App Demo  
 
-![MedTech Demo](./MEDTECH.gif)
-
-
+<p align="center">
+  <img src="./MEDTECH.gif" width="250" alt="MedTech App Demo"/>
+</p>
 ✅ Conclusion
 
 The Med-Tech App is a practical and scalable solution for modern healthcare.
