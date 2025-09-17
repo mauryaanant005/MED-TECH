@@ -1,9 +1,9 @@
 🏥 Med-Tech App
 
-A digital-first healthcare assistant designed to improve the safety, accessibility, and management of medical information. The Med-Tech App empowers users with tools like symptom checking, barcode-based medicine info, AI-powered assistance, reminders, and secure health records — all within a user-friendly mobile application.
+A digital healthcare assistant designed to improve the safety, accessibility, and management of medical information. The Med-Tech App empowers users with tools like symptom checking, barcode-based medicine info, AI-powered assistance, reminders, and secure health records — all within a user-friendly mobile application.
 
 ✨ Features
-🔐 1. Personal Health Management
+**🔐 1. Personal Health Management**
 
 Secure sign-up and login
 
@@ -11,7 +11,7 @@ Store and access complete medical history anytime
 
 Proactive tracking of past health records
 
-🩺 2. Symptom Self-Assessment
+**🩺 2. Symptom Self-Assessment**
 
 Built-in symptom checker
 
@@ -19,7 +19,7 @@ Get preliminary guidance on health conditions
 
 Helps make informed decisions before visiting a doctor
 
-🤖 3. AI-Powered Medical Support
+**🤖 3. AI-Powered Medical Support**
 
 Integrated AI chatbot for real-time health queries
 
@@ -27,7 +27,7 @@ Provides personalized, medically-informed responses
 
 Acts as your digital health assistant
 
-💊 4. Medicine Information Access
+**💊 4. Medicine Information Access**
 
 Scan medicine barcodes
 
@@ -35,7 +35,7 @@ View usage, composition, side effects, and safety guidelines
 
 Promotes safe and informed medication usage
 
-⏰ 5. Timely Medication Reminders
+**⏰ 5. Timely Medication Reminders**
 
 Set daily reminders for medications
 
@@ -43,7 +43,7 @@ Reduce missed doses
 
 Improve treatment adherence
 
-📰 6. Health News & Regulatory Updates
+**📰 6. Health News & Regulatory Updates**
 
 Stay informed with real-time health news
 
@@ -51,7 +51,7 @@ Updates on disease outbreaks, drug alerts, and safety tips
 
 Helps users stay proactive about healthcare
 
-👤 7. Personalized User Profiles
+**👤 7. Personalized User Profiles**
 
 Manage health data and preferences
 
@@ -59,19 +59,19 @@ View stored records anytime
 
 Fully customizable user experience
 
-🌍 8. Rural & Remote Healthcare Access
+**🌍 8. Rural & Remote Healthcare Access**
 
 Optimized for low-connectivity areas
 
 Ensures reliable access to health info even offline
 
-📝 9. User Feedback & Continuous Improvement
+**📝 9. User Feedback & Continuous Improvement**
 
 In-app feedback system for reporting issues & suggesting features
 
 Supports continuous app improvement
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: React Native (Expo)
 
